@@ -579,6 +579,5 @@ HostOS -- CloudInfrastructure [style=invis]
 }
 ```
 
-### Troubleshooting
-- Refer our TroubleShooting Guide - https://github.com/in28minutes/in28minutes-initiatives/tree/master/The-in28Minutes-TroubleshootingGuide-And-FAQ
+
 
